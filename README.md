@@ -1,5 +1,5 @@
 # Mystic
-![Mystic's Discord Status](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/795336949795258378) ![Duck's Discord Playing Status](https://img.shields.io/endpoint?label=playing/using&url=https://dev.discordprofiles.me/api/badge/playing/795336949795258378)
+![Mystic's Discord Status](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/795336949795258378) ![Mystic's Discord Playing Status](https://img.shields.io/endpoint?label=playing/using&url=https://dev.discordprofiles.me/api/badge/playing/795336949795258378)
 
 I develop discord bots, and ask for spoonfeed.
 Also I have friends.
