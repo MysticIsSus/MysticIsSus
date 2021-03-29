@@ -4,6 +4,8 @@
 I develop discord bots, and ask for spoonfeed.
 Also I have friends.
 
+# Website
+[Here](https://mysticissus.github.io/portfoilo/)
 # Projects
 Working on [Akames](https://discord.com/api/oauth2/authorize?client_id=824044450921185291&permissions=8&scope=bot) fully made in **TYPESCRIPT!**
 
