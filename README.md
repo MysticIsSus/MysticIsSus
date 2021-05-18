@@ -1,2 +1,3 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysticissus&repo=slashcord)]
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysticissus&repo=slashcord)
 
