@@ -1,5 +1,1 @@
-Hey. It's me **Mystic**, check out my package:
-
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mysticissus&repo=slashcord)
-
+[![discord](https://img.shields.io/discord/771507203647209482?style=for-the-badge)](https://discord.gg/xcPKcqZR)
