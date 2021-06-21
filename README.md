@@ -2,7 +2,7 @@
 
 #### Taught junior in coding.
 
-- ☎ Contact me in my [discord](https://discord.gg/36nFHPmRqk) server!
+- ☎ Contact me in my [discord](https://discord.gg/bSh7P6Ak5g) server!
 - 📽 Projects: [Slashcord](https://npmjs.com/slashcord)
 - 📝 Website: [Portfolio](https://mysticissus.github.io/portfolio/#home)
 
